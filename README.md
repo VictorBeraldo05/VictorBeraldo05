@@ -1,1 +1,1 @@
-<img source= "banner.gif" width= "325px">
+<img src= "banner.gif" width= "325px">
