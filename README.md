@@ -3,7 +3,7 @@
 # 💨 Olá, é bom ter você por aqui...
 Sou desenvolvedor de software e gosto muito de trablhar com automações de processos
 
-- 👨‍💻 Estudante de Análise e Desenvolvimento de Sistemas
+- 👨‍💻 Formado em Análise e Desenvolvimento de Sistemas
 - ❣ Apaixonado por inovações
 
 <div style="display: inline_block"><br>
